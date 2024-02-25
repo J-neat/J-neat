@@ -4,12 +4,11 @@
   Hello, My name is JungHyo Kim.
   I am currently studying at the Department of Computer Science at Catholic University.
   I am diligently learning and passionately pursuing my studies with the goal of becoming an excellent developer.
-<h3>💡 My Most Used Languages & Git Stats 💡</h3>
+<h3>💡 My Most Used Languages💡</h3>
 
 <table>
   <tr>
     <td><a href="https://github.com/$J-neat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-neat&layout=compact&show_icons=true&show_owner=J-neat&theme=nord" /></a></td>
-    <td><a href="https://github.com/${J-neat}"><img src="https://github-readme-stats.vercel.app/api?username=J-neat&hide=stars,contribs&show_icons=true&include_all_commits=true&theme=nord" /></a></td>
   </tr>   
 </table>
 
