@@ -4,7 +4,6 @@
   Hello, My name is JungHyo Kim.
   I am currently studying at the Department of Computer Science at Catholic University.
   I am diligently learning and passionately pursuing my studies with the goal of becoming an excellent developer!
-I hope I'm being a provider!
 <h3>💡 My Most Used Languages💡</h3>
 
 <table>
